@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625207744828",
+    "project_id": "sostracking-29ff5",
+    "storage_bucket": "sostracking-29ff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625207744828:android:405aef4ef52c64af5f2639",
+        "android_client_info": {
+          "package_name": "com.example.sostrackingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625207744828-2fjapo7uolbelgbc3r9a85b68fi602pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgMe97uuP0g7cZEeEHuRqe4wAyH7IbOCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625207744828-2fjapo7uolbelgbc3r9a85b68fi602pb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
